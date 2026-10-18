@@ -1,0 +1,22 @@
+name: Idea
+description: Something Emaki could do or do better
+labels: ["idea"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing or hard today
+      description: The situation you are in, not the solution yet.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you would like
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        For anything big — a new component, a change to how Emaki looks or to its defaults — please wait for an answer
+        here before you write the code.
