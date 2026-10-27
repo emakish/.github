@@ -1,6 +1,6 @@
 # Contributing to Emaki
 
-Thank you for helping. Emaki is young (late alpha), so every bug report counts.
+Thank you for helping. Emaki is young (beta), so every bug report counts.
 
 ## Who decides
 
